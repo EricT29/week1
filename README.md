@@ -1,2 +1,1 @@
-# week1
-# Eric T
+# week1 by Eric T
